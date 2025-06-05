@@ -1,7 +1,7 @@
 # diet-aging-metabolic-reprogramming-plasticity
 
 This repository contains the latest versions of the scripts and notebooks created and used to generate the plots and analyses for the user's Masters' Dissertation.
-The scripts here contained are subject to change.
+The scripts here contained are subject to change as they are yet to be fully optimized.
 
 Contents:
 - aux2.R; auxiliary functions used in main_script2.R
